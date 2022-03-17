@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onassis28
+- 👋 Hi, I’m Onassis
 - 👀 I’m interested in Frontend Engineering and Data
 - 🌱 I’m currently learning React, Redux and Docker
 - 💞️ I’m looking to collaborate on interesting frontend projects
